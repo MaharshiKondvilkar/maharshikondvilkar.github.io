@@ -1,240 +1,26 @@
-<!DOCTYPE html>
-<html lang="en">
+# My GitHub Learning Journey
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+Welcome to my first GitHub repository.
 
-    <title>Maharshi Kondvilkar | Data & AI Portfolio</title>
+I am a data professional building expertise across data engineering, analytics, forecasting, machine learning and artificial intelligence.
 
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 1000px;
-            margin: auto;
-            padding: 40px 20px;
-            line-height: 1.6;
-            color: #222;
-        }
+## Areas I Am Learning
 
-        h1 {
-            font-size: 42px;
-            margin-bottom: 5px;
-        }
+- Git and GitHub
+- Python for Data Science
+- Statistics
+- Exploratory Data Analysis
+- Time-Series Forecasting
+- Machine Learning
+- Explainable AI
+- Deep Learning
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- MLOps and LLMOps
 
-        h2 {
-            margin-top: 45px;
-            color: #1f4e79;
-        }
+## Goal
 
-        .subtitle {
-            font-size: 20px;
-            color: #555;
-        }
+My goal is to combine data engineering, analytics, predictive modeling and artificial intelligence to build practical solutions that support business decision-making.
 
-        .hero {
-            padding: 50px 0;
-        }
-
-        .project {
-            border: 1px solid #ddd;
-            padding: 20px;
-            margin: 20px 0;
-            border-radius: 8px;
-        }
-
-        .skills {
-            color: #555;
-            font-weight: bold;
-        }
-
-        footer {
-            border-top: 1px solid #ddd;
-            margin-top: 60px;
-            padding-top: 20px;
-            color: #666;
-        }
-    </style>
-</head>
-
-
-<body>
-
-<section class="hero">
-
-    <h1>Maharshi Kondvilkar</h1>
-
-    <p class="subtitle">
-        Data Engineering | Analytics | Machine Learning | Artificial Intelligence
-    </p>
-
-    <p>
-        I build data and AI solutions that transform operational data
-        into insights, predictions and better business decisions.
-    </p>
-
-</section>
-
-
-<h2>About Me</h2>
-
-<p>
-    I am a data professional with experience across data analytics,
-    data engineering, business intelligence, automation and process improvement.
-</p>
-
-<p>
-    I am expanding my work into forecasting, machine learning,
-    explainable AI, generative AI and enterprise AI engineering.
-</p>
-
-
-<h2>Areas of Expertise</h2>
-
-<ul>
-    <li>Data Engineering</li>
-    <li>SQL and Database Development</li>
-    <li>Python</li>
-    <li>Power BI and Data Visualization</li>
-    <li>Statistical Analysis</li>
-    <li>Time-Series Forecasting</li>
-    <li>Machine Learning</li>
-    <li>Explainable AI</li>
-    <li>Generative AI</li>
-    <li>Retrieval-Augmented Generation</li>
-    <li>AI Agents</li>
-    <li>MLOps and AI Engineering</li>
-</ul>
-
-
-<h2>Featured Projects</h2>
-
-
-<div class="project">
-
-    <h3>Workforce Demand Forecasting</h3>
-
-    <p>
-        Comparison of statistical forecasting and machine-learning
-        techniques for predicting future workforce requirements.
-    </p>
-
-    <p class="skills">
-        Python | Time Series | SARIMA | XGBoost | SHAP
-    </p>
-
-    <p>Project coming soon.</p>
-
-</div>
-
-
-<div class="project">
-
-    <h3>Project Risk Prediction</h3>
-
-    <p>
-        Machine-learning analysis designed to identify projects
-        with elevated delivery risk.
-    </p>
-
-    <p class="skills">
-        Python | Classification | Random Forest | XGBoost
-    </p>
-
-    <p>Project coming soon.</p>
-
-</div>
-
-
-<div class="project">
-
-    <h3>Operational Anomaly Detection</h3>
-
-    <p>
-        Detection and investigation of unusual patterns in
-        operational data using statistical and machine-learning approaches.
-    </p>
-
-    <p class="skills">
-        Python | Statistics | Isolation Forest
-    </p>
-
-    <p>Project coming soon.</p>
-
-</div>
-
-
-<div class="project">
-
-    <h3>Enterprise Knowledge Assistant</h3>
-
-    <p>
-        Retrieval-Augmented Generation architecture for retrieving
-        trusted information and generating grounded responses.
-    </p>
-
-    <p class="skills">
-        Python | LLM | Embeddings | Vector Search | RAG
-    </p>
-
-    <p>Project coming soon.</p>
-
-</div>
-
-
-<div class="project">
-
-    <h3>AI Forecasting Analyst</h3>
-
-    <p>
-        An AI-enabled decision-support architecture combining predictive
-        forecasting, model explainability and generative AI.
-    </p>
-
-    <p class="skills">
-        Forecasting | XGBoost | SHAP | Generative AI | MLOps
-    </p>
-
-    <p>Project coming soon.</p>
-
-</div>
-
-
-<h2>Learning Lab</h2>
-
-<p>
-    I use my Learning Lab to document hands-on experiments across
-    statistics, forecasting, machine learning, deep learning and AI engineering.
-</p>
-
-<ul>
-    <li>Statistics</li>
-    <li>Forecasting</li>
-    <li>Machine Learning Algorithms</li>
-    <li>Feature Engineering</li>
-    <li>Explainable AI</li>
-    <li>Deep Learning</li>
-    <li>Generative AI</li>
-    <li>AI Agents</li>
-</ul>
-
-
-<h2>Technology Stack</h2>
-
-<p>
-    Python | SQL | Oracle | Power BI | pandas | NumPy |
-    scikit-learn | XGBoost | Git | GitHub
-</p>
-
-
-<footer>
-
-    <p>
-        Maharshi Kondvilkar | Data & AI Portfolio
-    </p>
-
-</footer>
-
-
-</body>
-</html>
+This repository is being used to document my GitHub learning journey.
