@@ -1,6 +1,3 @@
-# maharshikondvilkar.github.io
-
-
 <!DOCTYPE html>
 <html lang="en">
 
