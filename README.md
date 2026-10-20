@@ -24,3 +24,5 @@ I am a data professional building expertise across data engineering, analytics, 
 My goal is to combine data engineering, analytics, predictive modeling and artificial intelligence to build practical solutions that support business decision-making.
 
 This repository is being used to document my GitHub learning journey.
+
+________________________________________________________________________________
